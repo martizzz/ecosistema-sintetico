@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "synthetic-research-lab",
+  "version": "0.1.0",
+  "description": "Genera artefactos sintéticos trazables para UX Research sin presentarlos como evidencia real.",
+  "author": {
+    "name": "Equipo UX Research"
+  },
+  "keywords": [
+    "ux-research",
+    "synthetic-users",
+    "personas",
+    "interviews",
+    "surveys",
+    "workshops"
+  ]
+}

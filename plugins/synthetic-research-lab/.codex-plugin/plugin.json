@@ -1,0 +1,25 @@
+{
+  "name": "synthetic-research-lab",
+  "version": "0.1.0",
+  "description": "Genera artefactos sintéticos trazables para UX Research sin presentarlos como evidencia real.",
+  "author": {
+    "name": "Equipo UX Research"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Synthetic Research Lab",
+    "shortDescription": "Artefactos sintéticos trazables para UX Research.",
+    "longDescription": "Crea personas, entrevistas, encuestas y workshops sintéticos para exploración y pruebas de instrumentos, sin confundirlos con evidencia real.",
+    "developerName": "Equipo UX Research",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prepara un laboratorio de research sintético.",
+      "Crea una persona sintética trazable.",
+      "Comprueba la gobernanza de estos artefactos."
+    ]
+  }
+}
